@@ -45,3 +45,4 @@ next-env.d.ts
 /public/data/models
 
 /data
+/geoserver-data/
